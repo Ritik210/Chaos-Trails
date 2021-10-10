@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 7ed62e8335d9fc04896b1d32705cd3e0
+  - enabled: 1
+    path: Assets/Scenes/Chapter1.unity
+    guid: eea45569024c6374c9d28532936c81e9
+  - enabled: 1
+    path: Assets/Scenes/Castle 1.unity
+    guid: 35225d5e870cf4c4da6d92d85f5e55bc
+  - enabled: 1
+    path: Assets/Scenes/Castle 2.unity
+    guid: abcebe35e3984da4980c3f3afc4337ec
+  - enabled: 1
+    path: Assets/Scenes/Castle 3.unity
+    guid: 6ab9b669e8d6d844784135e3c4b6c751
+  - enabled: 1
+    path: Assets/Scenes/Castle 4.unity
+    guid: f59c52fed1e3640448bd2201db6fb8e0
+  - enabled: 1
+    path: Assets/Scenes/Castle 5.unity
+    guid: ee9a3b647394eca4397fd6deda47b2d8
+  - enabled: 1
+    path: Assets/Scenes/Chapter2.unity
+    guid: 039e8268d68eb19438ed07f2e11659b9
+  - enabled: 1
+    path: Assets/Scenes/Forest Scenes/Level1.unity
+    guid: 7fef068f010484d409be41edb2a3ff48
+  - enabled: 1
+    path: Assets/Scenes/Forest Scenes/Level2.unity
+    guid: 04547556edb8f54419c40e241344d1a9
+  - enabled: 1
+    path: Assets/Scenes/Forest Scenes/Level3.unity
+    guid: a2f59eab22c92a94a80cc8e68228edcf
+  - enabled: 1
+    path: Assets/Scenes/Forest Scenes/Level4.unity
+    guid: 683c6cbf466b69c4eab64c0818ca4706
+  - enabled: 1
+    path: Assets/Scenes/Forest Scenes/Level5.unity
+    guid: a96d3ed11aec8134c9ba7601a8727fa0
+  m_configObjects: {}
